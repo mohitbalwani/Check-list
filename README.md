@@ -10,3 +10,5 @@ In this project, I learnt about ~ sign use in CSS and came to know about Font Aw
 
 # ~ Sign:
 ## It is general sibling combinator and similar to Adjacent sibling combinator. the difference is that the second selector does NOT have to immediately follow the first one means It will select all elements that is preceded by the former selector.
+
+### The code can be found at master branch.
